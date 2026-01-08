@@ -1,0 +1,8 @@
+<manifest package="com.bypass.charging"
+    android:sharedUserId="android.uid.system">
+
+    <application
+        android:label="Bypass Charging"
+        android:persistent="true"/>
+
+</manifest>

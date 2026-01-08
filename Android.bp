@@ -1,0 +1,7 @@
+android_app {
+    name: "BypassCharging",
+    srcs: ["app/src/**/*.java"],
+    privileged: true,
+    certificate: "platform",
+    platform_apis: true,
+}
