@@ -1,0 +1,4 @@
+<resources>
+    <string name="bypass_title">Bypass Charging</string>
+    <string name="bypass_summary">Power is supplied directly from charger</string>
+</resources>
